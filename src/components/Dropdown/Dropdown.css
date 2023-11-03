@@ -1,0 +1,16 @@
+.title{
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.drop{
+    background-color: white;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
+    border: none;
+    box-sizing: border-box;
+    color: rgb(105, 105, 105);
+    font-size: 1.3em;
+    padding: 0.5em;
+    width: 100%;
+}

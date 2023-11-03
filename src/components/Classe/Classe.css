@@ -1,0 +1,27 @@
+.classe{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em;
+    position: relative;
+}
+
+.classe-title{
+    padding-bottom: 0.5em;
+    border-bottom: 3px solid;
+}
+
+.classe-players{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+}
+
+.classe-color{
+    background-color: #F2F2F2;
+    border: 2px solid #F2F2F2;
+    position: absolute;
+    padding: 0px;
+    right: 10%;
+    top: 2%;
+}

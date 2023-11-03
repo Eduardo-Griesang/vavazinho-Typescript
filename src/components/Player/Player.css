@@ -1,0 +1,45 @@
+.player{
+    border-radius: 12px;
+    padding: 2em;
+    text-align: center;
+    position: relative;
+    width: 8em;
+    height: 12em;
+}
+
+.player-btn{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 10px;
+    font-size: 0.9em;
+}
+
+.player-btn:hover{
+    color: rgb(39, 39, 39);
+}
+
+.player-btn:active{
+    color: white;
+}
+
+.player img {
+    max-width: 100px;
+    border-radius: 50%;
+}
+
+.player h4 {
+    font-size: 1.2em;
+}
+
+.favorite{
+    color: black;
+    background-color: transparent;
+    font-size: 1.5em;
+    margin-top: 0;
+    padding: 0;
+}
+
+.favorite:hover{
+    background-color: transparent;
+}
